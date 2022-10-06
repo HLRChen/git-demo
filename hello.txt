@@ -1,5 +1,4 @@
-Hello HLRChen!Hello Git! 2222222222
-Hello HLRChen!Hello Git!
+Hello HLRChen!Hello Git! 22222
 Hello HLRChen!Hello Git!
 Hello HLRChen!Hello Git!
 Hello HLRChen!Hello Git!
@@ -8,3 +7,4 @@ Hello HLRChen!Hello Git!
 Hello HLRChen!Hello Git!
 Hello HLRChen!Hello Git!
 Hello HLRChen!Hello Git! master test
+Hello HLRChen!Hello Git! hot-fix test
